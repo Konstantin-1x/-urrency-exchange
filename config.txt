@@ -1,0 +1,1 @@
+{"api_id":"d066d12bd3f64461b0e3a126c28a0858","api_url":"https://openexchangerates.org/api/latest.json"}
